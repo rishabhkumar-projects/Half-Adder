@@ -37,7 +37,7 @@ Carry = A AND B
 
 ---
 
-## ▶️ Simulation
+## Simulation
 
 The design was simulated using a Verilog simulator and verified using waveform output.
 
